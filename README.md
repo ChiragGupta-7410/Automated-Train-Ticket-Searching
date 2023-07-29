@@ -1,4 +1,6 @@
 # Automated-Train-Ticket-Searching
+## Description
+This project involves building an automated train ticket booking system using Eclipse IDE and Selenium WebDriver. Selenium WebDriver is a popular tool for automating web applications, and Eclipse is a widely-used integrated development environment for Java programming. The automated system will simulate the process of booking train tickets on a website by interacting with the website's user interface
 
 ## Configuration
 1. Use Eclipse IDE.
